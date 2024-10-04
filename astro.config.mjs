@@ -4,6 +4,6 @@ import tailwind from "@astrojs/tailwind";
 
 // https://astro.build/config
 export default defineConfig({
-  base: '/Who-is-padrepio/',
+  base: '/Who-is-Daniele-Putzolu/',
   integrations: [tailwind()]
 });
