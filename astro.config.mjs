@@ -4,5 +4,6 @@ import tailwind from "@astrojs/tailwind";
 
 // https://astro.build/config
 export default defineConfig({
+  outDir: 'root',
   base: '/Who-is-Daniele-Putzolu/',
 });
